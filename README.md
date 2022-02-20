@@ -1,4 +1,5 @@
 # odin-recipes
-make 5 recipes using links
-add photos make it as 5 pages in a list
+make 3 recipes using links
+add photos make it as 3 pages in a list
 link it all together
+add paragraphs and steps as well as ingredients to each page
